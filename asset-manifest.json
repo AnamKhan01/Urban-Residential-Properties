@@ -1,0 +1,16 @@
+{
+  "files": {
+    "main.css": "/Urban-Residential-Properties/static/css/main.70502d89.css",
+    "main.js": "/Urban-Residential-Properties/static/js/main.3955cc40.js",
+    "static/js/453.a9c1ef19.chunk.js": "/Urban-Residential-Properties/static/js/453.a9c1ef19.chunk.js",
+    "static/media/Homepage-img.png": "/Urban-Residential-Properties/static/media/Homepage-img.ded354c52a44fcb72c9e.png",
+    "index.html": "/Urban-Residential-Properties/index.html",
+    "main.70502d89.css.map": "/Urban-Residential-Properties/static/css/main.70502d89.css.map",
+    "main.3955cc40.js.map": "/Urban-Residential-Properties/static/js/main.3955cc40.js.map",
+    "453.a9c1ef19.chunk.js.map": "/Urban-Residential-Properties/static/js/453.a9c1ef19.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.70502d89.css",
+    "static/js/main.3955cc40.js"
+  ]
+}
